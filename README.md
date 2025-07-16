@@ -3,8 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hagar-gamal&style=flat-square&color=0e75b6" alt="Profile views" />
-  <img src="https://img.shields.io/badge/📍Aswan%2C%20Egypt-Location-blue" />
-  <img src="https://img.shields.io/badge/🎓B.Sc.%20Law%20(Aswan%20Univ.)-Graduated-blue" />
 </p>
 
 ---
