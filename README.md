@@ -54,7 +54,7 @@ With practical experience as a Backend Developer at **Technokit** and a Full‑S
 ## 📚 Education & Certifications
 
 - **B.Sc. in Law**, Aswan University (2018–2022)  
-- **Android Development** (ITI, internships & certifications Nov 2022–Jul 2023)  
+- **Software Development** (ITI, internships & certifications Nov 2022–Jul 2023)  
 - Self-driven growth in backend technologies, Clean Architecture, and CI/CD pipelines.
 
 ---
