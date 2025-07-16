@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Hagar Gamal</h1>
+<h3 align="center">Backend & Full Stack Web Developer | PHP | Node.js | Laravel | NestJS</h3>
 
-<!--
-**HagarGamal0/HagarGamal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hagar-gamal&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 👩‍💻 I'm a passionate developer with experience in **Backend** and **Full Stack** web development.
+- 🔭 Currently working on projects using **Laravel, NestJS, and Node.js**.
+- 🌱 Actively learning **system design**, **testing**, and **scalable backend architecture**.
+- 💡 I enjoy solving complex backend problems and building real-world applications.
+- 💬 Ask me about **PHP, Laravel, Node.js, NestJS, MySQL, APIs** and more!
+- 📫 Reach me at: `your.email@example.com`
+
+---
