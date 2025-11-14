@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Hagar Gamal</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hagar-gamal&style=flat-square&color=0e75b6" alt="Profile views" />
